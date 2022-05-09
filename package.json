@@ -1,0 +1,25 @@
+{
+  "name": "vue-fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirko87/Vue-fr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirko87/Vue-fr/issues"
+  },
+  "homepage": "https://github.com/Kirko87/Vue-fr#readme",
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0"
+  }
+}
